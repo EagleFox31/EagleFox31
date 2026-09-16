@@ -10,7 +10,7 @@ I usually end up building something when an existing workflow feels clumsy, repe
 - [**AgenFetch**](https://github.com/EagleFox31/agenfetch-desktop) — local-first Windows app built around `yt-dlp`, with browser integration for video and subtitle downloads.
 - [**AgenStart**](https://github.com/EagleFox31/AgenStart) — Windows setup assistant for planning and automating software installation with WinGet.
 - [**Atelier Maître**](https://github.com/EagleFox31/atelier2026) — workshop management software focused on day-to-day maintenance operations.
-- [**Fleet Management ERP Demo**](https://github.com/EagleFox31/fleet-management-erp-demo) — public, synthetic-data edition of a fleet and maintenance ERP covering vehicles, workshop operations, spare parts and tires.
+- [**XEPTION Network**](https://github.com/EagleFox31/xeption237) — production e-commerce and operations platform combining storefront, inventory, local payments, after-sales workflows, and point-of-sale tooling.
 
 ## Main stack
 
