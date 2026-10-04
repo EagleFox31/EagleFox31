@@ -4,13 +4,19 @@ Software engineer working across web, desktop, automation, and internal business
 
 I usually end up building something when an existing workflow feels clumsy, repetitive, or harder than it needs to be.
 
-## Current projects
+## Selected projects
 
-- [**AppFactory Project Automation**](https://github.com/EagleFox31/appfactory-project-automation) — reusable GitHub Project automation for setup, backlog synchronization, issue metadata, and pull request lifecycle.
-- [**AgenFetch**](https://github.com/EagleFox31/agenfetch-desktop) — local-first Windows app built around `yt-dlp`, with browser integration for video and subtitle downloads.
+- [**AppFactory**](https://github.com/Trigenys/appfactory) — automated software delivery platform for generating, validating, provisioning, and deploying applications across web, service, and desktop blueprints.
+- [**AppFactory Project Automation**](https://github.com/EagleFox31/appfactory-project-automation) — reusable GitHub automation for Projects, backlog synchronization, repository governance, impact-aware CI, and release workflows.
+- [**Atelier Maître**](https://github.com/EagleFox31/atelier2026) — production workshop-management platform covering work orders, planning, inventory, billing, cash operations, and reporting.
+- [**Yaro FleetOS**](https://github.com/EagleFox31/fleet-management-and-erp) — fleet-management and maintenance ERP connecting vehicles, workshop operations, inventory, purchasing, fuel, missions, HR, and billing.
+- [**AgenFetch**](https://github.com/EagleFox31/agenfetch-desktop) — local-first Windows media utility with browser integration, download orchestration, subtitles, packaged tooling, and reproducible releases.
+- [**XEPTION Network**](https://github.com/EagleFox31/xeption237) — production e-commerce and operations platform combining storefront, inventory, local payments, device trade-ins, after-sales workflows, and point-of-sale tooling.
+
+### Other open-source work
+
 - [**AgenStart**](https://github.com/EagleFox31/AgenStart) — Windows setup assistant for planning and automating software installation with WinGet.
-- [**Atelier Maître**](https://github.com/EagleFox31/atelier2026) — workshop management software focused on day-to-day maintenance operations.
-- [**XEPTION Network**](https://github.com/EagleFox31/xeption237) — production e-commerce and operations platform combining storefront, inventory, local payments, after-sales workflows, and point-of-sale tooling.
+- [**Trigenys Insight**](https://github.com/EagleFox31/Trigenys-Insight) — bilingual technology and business publication used as a production vertical for Trigenys editorial tooling.
 
 ## Main stack
 
