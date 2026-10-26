@@ -6,7 +6,7 @@ I usually end up building something when an existing workflow feels clumsy, repe
 
 ## Currently designing
 
-- **AgentShield** *(upcoming open-source project)* — an AI-agent security gateway combining prompt-injection defense, fine-grained tool permissions, runtime threat detection, and cryptographically verifiable audit trails.
+- [**AgentShield AI**](https://github.com/EagleFox31/agentshield-ai) *(in development)* — an open-source security gateway for autonomous AI agents, designed around policy-enforced tool access, prompt-injection defenses, runtime monitoring, and tamper-evident audit trails.
 
 ## Selected projects
 
