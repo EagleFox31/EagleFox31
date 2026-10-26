@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "name": "Jennifer Lawrynn",
+  "stage": "production",
+  "tagline": "Build clear, maintainable engineering systems that remove manual work and give people reliable tools for everyday operations.",
+  "problem": "Engineering teams and small businesses lose time when software delivery, repetitive workflows and operational applications are treated as disconnected manual tasks. My work focuses on turning messy needs into tools with clear interfaces, automation and security boundaries.",
+  "scenario": "A new product requires a web experience, backend services and repeatable delivery. I first define the trust and data boundaries, then choose an appropriate stack, ship a testable implementation and automate the maintenance steps that are otherwise repeated by hand.",
+  "differentiation": "I connect full-stack application delivery, DevOps workflow automation and security-first design. The projects below show real public repositories and explicitly separate shipped tools from ongoing research instead of claiming capabilities that are still prototypes.",
+  "architecture": "Selected repositories cover React/TypeScript frontends, Python or Node-based service boundaries, PostgreSQL-backed business workflows and GitHub Actions delivery. AppFactory coordinates reusable project scaffolding while AgentShield explores separately enforced tool authorization for AI agents.",
+  "limitations": "This profile is a public portfolio, not a blanket production certification for every linked repository. Some work is in development, some code is proprietary, and third-party performance or security claims require individual project evidence.",
+  "capabilities": [
+    {
+      "name": "Application engineering",
+      "description": "Build cross-layer systems connecting web interfaces, service contracts and operational domain logic.",
+      "status": "shipped",
+      "evidence": "https://github.com/EagleFox31/atelier2026"
+    },
+    {
+      "name": "Engineering workflow automation",
+      "description": "Develop repeatable GitHub Projects and software delivery automation rather than copy-paste repository setup.",
+      "status": "shipped",
+      "evidence": "https://github.com/Trigenys/appfactory"
+    },
+    {
+      "name": "Security research",
+      "description": "Explore deterministic controls and auditable action boundaries for autonomous agents.",
+      "status": "in-development"
+    }
+  ],
+  "roadmap": [
+    {
+      "name": "Engineering case studies",
+      "exitCriteria": "Each featured project links to its technical evidence, explicit maturity, decisions and known constraints."
+    },
+    {
+      "name": "Security and cloud growth",
+      "exitCriteria": "New security and automation modules are demonstrated through public fixtures and tests before production labels are used."
+    }
+  ],
+  "references": [
+    {
+      "name": "AppFactory engineering system",
+      "url": "https://github.com/Trigenys/appfactory",
+      "relevance": "Evidence of shared engineering tooling and versioned repository workflows."
+    },
+    {
+      "name": "AgentShield AI security project",
+      "url": "https://github.com/EagleFox31/agentshield-ai",
+      "relevance": "Open source research with explicit maturity and documented trust boundaries."
+    }
+  ],
+  "requiredHeadings": [
+    "Selected engineering work",
+    "Security research",
+    "Toolbox",
+    "Engineering approach",
+    "About this profile"
+  ],
+  "requiredTerms": [
+    "Software Engineer",
+    "Python",
+    "TypeScript",
+    "AppFactory",
+    "AgentShield",
+    "production"
+  ],
+  "requiredFiles": [],
+  "presentation": {
+    "variant": "centered",
+    "headline": "I build the systems behind better workflows.",
+    "summary": "Software Engineer working across full-stack products, engineering automation, cloud delivery and security-minded systems design.",
+    "badges": [
+      {
+        "label": "Focus",
+        "value": "Full-stack Engineering",
+        "color": "2563eb",
+        "href": "#toolbox"
+      },
+      {
+        "label": "Delivery",
+        "value": "Cloud + Automation",
+        "color": "0969da",
+        "href": "#engineering-approach"
+      },
+      {
+        "label": "Research",
+        "value": "AI Agent Security",
+        "color": "6d28d9",
+        "href": "#security-research"
+      }
+    ],
+    "navigation": [
+      {
+        "label": "Selected work",
+        "href": "#selected-engineering-work"
+      },
+      {
+        "label": "Security",
+        "href": "#security-research"
+      },
+      {
+        "label": "Toolbox",
+        "href": "#toolbox"
+      },
+      {
+        "label": "How I build",
+        "href": "#engineering-approach"
+      },
+      {
+        "label": "Portfolio",
+        "href": "https://jenniferlawrynn.space"
+      },
+      {
+        "label": "GitHub",
+        "href": "https://github.com/EagleFox31"
+      }
+    ]
+  }
+}
