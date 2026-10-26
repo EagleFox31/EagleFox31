@@ -4,6 +4,10 @@ Software engineer working across web, desktop, automation, and internal business
 
 I usually end up building something when an existing workflow feels clumsy, repetitive, or harder than it needs to be.
 
+## Currently designing
+
+- **AgentShield** *(upcoming open-source project)* — an AI-agent security gateway combining prompt-injection defense, fine-grained tool permissions, runtime threat detection, and cryptographically verifiable audit trails.
+
 ## Selected projects
 
 - [**AppFactory**](https://github.com/Trigenys/appfactory) — automated software delivery platform for generating, validating, provisioning, and deploying applications across web, service, and desktop blueprints.
